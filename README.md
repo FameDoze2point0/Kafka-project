@@ -1,7 +1,8 @@
 # Projet Kafka/Quarkus M1
 
-Pour lancer le projet, il faut : 
+Pour lancer le projet, il faut :  
   - avoir docker d'allumé
+  - aller dans le repertoire 'projet_Antonin_Carpentier'
   - `docker compose build` ou `docker-compose build`
   - `docker compose up -d` ou `docker-compose up -d`
 
